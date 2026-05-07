@@ -77,7 +77,7 @@
   </a>
 </div>
 
-<h2>👾 Pacman Contribution Graph</h2>
+<h2>👾 Contribution </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajavkrish/prajavkrish/output/pacman-contribution-graph-dark.svg">
