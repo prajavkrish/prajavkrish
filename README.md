@@ -13,6 +13,20 @@
     Cybersecurity enthusiast focused on SOC analysis, threat detection,
     log analysis, and incident response.
   </p>
+  <div align="center">
+  <a href="www.linkedin.com/in/prajavkrishna" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.krzx_?igsh=ZWhpNTA0OXVwNWFm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/krzx06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+  <a href="https://medium.com/@prajavkrishnaofficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+</div>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,6 +43,6 @@
 <details open>
   <summary> <h2 style="margin:0;">🛠️Tools & Skills : </h2></summary>
   
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vim,vscode,powershell,sublime,netlify,bash,debian,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vim,vscode,powershell,sublime,netlify,bash,debian,docker,git,github,gcp,vim,)](https://skillicons.dev)
 
 </details>
