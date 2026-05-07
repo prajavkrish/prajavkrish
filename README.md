@@ -35,9 +35,10 @@
   <summary> <h2 style="margin:0;">⚙️OS I Handle : </h2></summary>
   
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,linux,kali)](https://skillicons.dev)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
 
 </details>
-
+<hr width="80%" style="margin:auto;">
 <!--TECH I USE-->
 
 <details open>
@@ -46,3 +47,21 @@
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vim,vscode,powershell,sublime,netlify,bash,debian,docker,git,github,gcp,vim,)](https://skillicons.dev)
 
 </details>
+<hr width="80%" style="margin:auto;">
+
+<details open>
+  <summary> <h2 style="margin:0;">🤖Workspace : </h2></summary>
+  <p align="center">
+  <img src="https://img.shields.io/badge/AMD_Ryzen_7_5800HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/AMD_Radeon_Graphics-000000?style=for-the-badge&logo=amd&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/ASUS_VivoBook-0078D6?style=for-the-badge&logo=asus&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/RAM-16GB-39FF14?style=for-the-badge&logo=windows&logoColor=black" />
+</p>
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
