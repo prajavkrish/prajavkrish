@@ -44,7 +44,28 @@
 <details open>
   <summary> <h2 style="margin:0;">🛠️Tools & Skills : </h2></summary>
   
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vim,vscode,powershell,sublime,netlify,bash,debian,docker,git,github,gcp,vim,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vscode,powershell,sublime,netlify,bash,debian,docker,git,github,gcp)](https://skillicons.dev)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maltego-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/John_The_Ripper-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
+
+</p>
 
 </details>
 <hr width="80%" style="margin:auto;">
@@ -63,5 +84,6 @@
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--cyber tools-->
 
 
