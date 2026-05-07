@@ -10,8 +10,20 @@
   <summary> <h2 style="margin:0;">🪐About ME : </h2></summary>
 
   <p align="left" style="margin-top:8px; color:#39FF14;">
-    Cybersecurity enthusiast focused on SOC analysis, threat detection,
-    log analysis, and incident response.
+  <ul>
+  <li>🔭 I’m currently working on: SOC Lab & Forensic cases</li>
+
+  <li>🌱 I’m currently learning:  SIEM & Threat Detection</li>
+
+  <li>💬 Ask me about: Cybersecurity, Log Analysis, Web Security & Linux</li>
+
+  <li>👨‍💻 My projects available at: GitHub Repositories</li>
+
+  <li>📄 Know about my experiences: Cyber Infrastructure & SOC Analysis Training</li>
+
+  <li>⚡ Fun fact: I enjoy analyzing attacks more than using applications</li>
+</ul>
+
   </p>
   <div align="center">
   <a href="www.linkedin.com/in/prajavkrishna" target="_blank">
