@@ -90,7 +90,13 @@
     />
   </a>
 </div>
+<h2 align="center">🏅 Holopin Badges</h2>
 
+<p align="center">
+  <a href="https://holopin.io/@prajavkrish">
+    <img src="https://holopin.me/prajavkrish" alt="Holopin badges">
+  </a>
+</p>
 <h2>👾 Contribution </h2>
 
 <picture>
