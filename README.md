@@ -32,66 +32,22 @@
 
 <!--os i handle-->
 <details open>
-  <summary> <h2 style="margin:0;">⚙️OS I Handle : </h2></summary>
-  
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,linux,kali)](https://skillicons.dev)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <summary> <h2 style="margin:0;">MY FAV TOOLS: </h2></summary>
+  <h3>👨‍💻 Os I Use</h3>
+<p align="left"><a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white"></a> <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-268BEE?logo=kalilinux&logoColor=white"></a> <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"></a> <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a> <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/-Red_Hat-EE0000?logo=redhat&logoColor=white"></a></p>
 
-</details>
-<hr width="80%" style="margin:auto;">
-<!--TECH I USE-->
+<h3 align="left">🖲️ Cyber Skills</h3>
 
-<details open>
-  <summary> <h2 style="margin:0;">🛠️Tools & Skills : </h2></summary>
-  
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,kubernetes,vscode,powershell,sublime,netlify,bash,debian,docker,git,github,gcp)](https://skillicons.dev)
-<p align="center">
+<p>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637"/>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Maltego-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/John_The_Ripper-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-
-<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Aircrack--ng-1E90FF?style=for-the-badge&logo=wi-fi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hydra-101010?style=for-the-badge&logo=gnu-bash&logoColor=red"/>
-
-<img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Recon--ng-FF4500?style=for-the-badge&logo=target&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autodesk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Sleuth_Kit-222222?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-<img src="https://img.shields.io/badge/FTK_Imager-0066CC?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Binwalk-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-
+<a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white"></a> <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF6C37?logo=burpsuite&logoColor=white"></a> <a href="#"><img alt="Splunk" src="https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=65A637"></a> <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-00457C?logo=gnu-bash&logoColor=white"></a> <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white"></a> <a href="#"><img alt="Maltego" src="https://img.shields.io/badge/-Maltego-FF6F00?logo=apache&logoColor=white"></a> <a href="#"><img alt="John The Ripper" src="https://img.shields.io/badge/-John_The_Ripper-111111?logo=hackthebox&logoColor=9FEF00"></a> <a href="#"><img alt="Tor" src="https://img.shields.io/badge/-Tor-7D4698?logo=torproject&logoColor=white"></a> <a href="#"><img alt="Nessus" src="https://img.shields.io/badge/-Nessus-00C176?logo=tenable&logoColor=white"></a> <a href="#"><img alt="Aircrack-ng" src="https://img.shields.io/badge/-Aircrack--ng-1E90FF?logo=wi-fi&logoColor=white"></a> <a href="#"><img alt="Hydra" src="https://img.shields.io/badge/-Hydra-101010?logo=gnu-bash&logoColor=red"></a> <a href="#"><img alt="Nikto" src="https://img.shields.io/badge/-Nikto-2E8B57?logo=hackthebox&logoColor=white"></a> <a href="#"><img alt="Recon-ng" src="https://img.shields.io/badge/-Recon--ng-FF4500?logo=target&logoColor=white"></a> <a href="#"><img alt="OWASP ZAP" src="https://img.shields.io/badge/-OWASP_ZAP-00549E?logo=owasp&logoColor=white"></a> <a href="#"><img alt="SQLMap" src="https://img.shields.io/badge/-SQLMap-CC2927?logo=mysql&logoColor=white"></a> <a href="#"><img alt="Autopsy" src="https://img.shields.io/badge/-Autopsy-4B0082?logo=autodesk&logoColor=white"></a> <a href="#"><img alt="Sleuth Kit" src="https://img.shields.io/badge/-Sleuth_Kit-222222?logo=linux&logoColor=FCC624"></a> <a href="#"><img alt="FTK Imager" src="https://img.shields.io/badge/-FTK_Imager-0066CC?logo=windows&logoColor=white"></a> <a href="#"><img alt="Binwalk" src="https://img.shields.io/badge/-Binwalk-FF6F00?logo=gnubash&logoColor=white"></a> <a href="#"><img alt="Hashcat" src="https://img.shields.io/badge/-Hashcat-111111?logo=nvidia&logoColor=76B900"></a>
 </p>
 
+<h3 align="left">💊 Tech Skills</h3>
 
+<p>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"></a> <a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white"></a> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></a> <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white"></a> <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white"></a> <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub_Pages-222222?logo=githubpages&logoColor=white"></a> <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"></a> <a href="#"><img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white"></a> <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a> <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white"></a> <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"></a> <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/-GitHub_Desktop-8034A9?logo=github&logoColor=white"></a> <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-34A853?logo=googlesheets&logoColor=white"></a> <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white"></a> <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"></a> <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"></a> <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white"></a> <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white"></a> <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-FF9800?logo=sublimetext&logoColor=white"></a>
+</p>
 </details>
 <hr width="80%" style="margin:auto;">
 
