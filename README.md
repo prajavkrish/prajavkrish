@@ -65,7 +65,32 @@
 
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Aircrack--ng-1E90FF?style=for-the-badge&logo=wi-fi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hydra-101010?style=for-the-badge&logo=gnu-bash&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Recon--ng-FF4500?style=for-the-badge&logo=target&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sleuth_Kit-222222?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+
+<img src="https://img.shields.io/badge/FTK_Imager-0066CC?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Binwalk-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+
 </p>
+
 
 </details>
 <hr width="80%" style="margin:auto;">
