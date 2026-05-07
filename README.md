@@ -94,7 +94,11 @@
 
 <p align="center">
   <a href="https://holopin.io/@prajavkrish">
-    <img src="https://holopin.me/prajavkrish" alt="Holopin badges">
+    <img 
+      src="https://holopin.io/api/user/board?user=prajavkrish"
+      alt="Holopin badges"
+      width="1000"
+    />
   </a>
 </p>
 <h2>👾 Contribution </h2>
