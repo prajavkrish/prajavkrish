@@ -65,6 +65,15 @@
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--cyber tools-->
+<h2 align="left">🎧 Currently Vibing To</h2>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31nv44w3so5uupk6cq2hqnkabgxe">
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31nv44w3so5uupk6cq2hqnkabgxe&count=1&unique=false" 
+      alt="Spotify recently played"
+      width="850"
+    />
+  </a>
+</div>
 
