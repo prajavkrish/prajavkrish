@@ -86,13 +86,13 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
    <a href="https://github.com/prajavkrish/fim-tool">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=fim-tool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fim-tool">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=fim-tool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="fim-tool">
 </a>
    <a href="https://github.com/prajavkrish/truecar-data-analysis">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=truecar-data-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="truecar-data-analysis">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=truecar-data-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="truecar-data-analysis">
 </a>
     <a href="https://github.com/prajavkrish/NETFLIX">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=NETFLIX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NETFLIX">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=NETFLIX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="NETFLIX">
 </a>
   </p>
 
