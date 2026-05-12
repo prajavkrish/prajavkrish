@@ -85,6 +85,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+     <a href="https://github.com/prajavkrish/SOC-DEADMAN">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=fim-tool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SOC-DEADMAN">
+</a>
    <a href="https://github.com/prajavkrish/fim-tool">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=fim-tool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="fim-tool">
 </a>
