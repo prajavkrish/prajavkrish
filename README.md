@@ -77,8 +77,6 @@
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Prajavkrzx?theme=chartreuse&font=ZCOOL%20QingKe%20HuangYou&colors=000000%2C08CB00%2CEEEEEE%2CFF0000)
----
 <details open> 
   <summary><h2>📘 My Top  Projects</h2></summary>
 
