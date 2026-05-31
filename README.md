@@ -86,6 +86,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/prajavkrish/USBSHADOW">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=USBSHADOW&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="USBSHADOW">
+</a>
     <a href="https://github.com/prajavkrish/PASSGUARD-X">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=PASSGUARD-X&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="PASSGUARD-X">
 </a>
