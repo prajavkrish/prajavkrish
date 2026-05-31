@@ -26,6 +26,9 @@
 
   </p>
   <div align="center">
+   <a href="https://prajavkrish.github.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=00C853&logoColor=white&style=for-the-badge" height="25" alt="portfolio website" />
+</a>
   <a href="www.linkedin.com/in/prajavkrishna" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -83,6 +86,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/prajavkrish/PASSGUARD-X">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=PASSGUARD-X&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="PASSGUARD-X">
+</a>
      <a href="https://github.com/prajavkrish/SOC-DEADMAN">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prajavkrish&repo=SOC-DEADMAN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SOC-DEADMAN">
 </a>
